@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0,KYOU GRIT
+https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+#EXTINF:-1,USA - INSP TV
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/59844
+#EXTINF:0,KYOU FOX
+https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
+#EXTINF:0,HGTV HD
+https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8
+#EXTINF:0,History HD
+https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8
 http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/283022
 #EXTINF:-1,TVR1 RO
 http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/283023
